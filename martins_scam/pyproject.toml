@@ -1,0 +1,9 @@
+[project]
+name = "martins_scam"
+version = "0.1.0"
+description = "YEAHHHH"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+[project.scripts]
+martins-scam = "martins_scam.main:main"
